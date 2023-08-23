@@ -7,6 +7,7 @@ public class MyCar {
 		System.out.print("Model: Nissan, ");
 		System.out.print("Year: 2015, ");
 		System.out.print("\n\tWheel drive: Rear wheel.");
+		//
 
 	}
 
